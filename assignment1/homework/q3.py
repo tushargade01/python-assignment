@@ -1,0 +1,1 @@
+#3. Write a Python program that takes two numbers as input and compares them. Print whether the first number is greater than, less than, or equal to the second number
